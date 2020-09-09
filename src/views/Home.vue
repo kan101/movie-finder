@@ -221,7 +221,7 @@ export default {
       position: static !important;
       color: #333;
       background: #eee;
-      padding: 8px 8px 10px;
+      padding: 8px 8px 3px;
 
       h3 {
         font-size: 21px;
